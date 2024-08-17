@@ -9,17 +9,17 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: '桥头里',
+  domain: 'qtl.webvip.cc',
+  author: 'Jason',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: '桥头里项目展示',
 
   // social usernames (optional)
-  twitter: 'ssssvip888',
+  twitter: 'qtl',
   github: 'maxage',
-  linkedin: 'fisch2',
+  linkedin: 'qtl',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
