@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: '桥头里',
   domain: 'qtl.webvip.cc',
-  author: 'Jason',
+  author: '桥头里',
 
   // open graph metadata (optional)
   description: '桥头里项目展示',
